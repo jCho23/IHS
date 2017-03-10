@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="IHS/IHS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IHS/Tests.cs">
+    <Files>
+      <File FileName="IHS/Tests.cs" Line="34" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IHS PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
